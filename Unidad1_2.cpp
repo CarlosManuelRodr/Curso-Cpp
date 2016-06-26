@@ -9,7 +9,7 @@ int main()
 	/* Si eliminamos "using namespace std;" hay que agregar std:: antes de todas
 	   las funciones que estan en ese espacio de nombres */
  
-	std::cout << "La vida es miseria" << std::endl;
+	std::cout << "Bale berga la bida" << std::endl;
 
 /* Todos los comandos que empiezan con "#" son directivas preprocesador. Es decir,
    parte del codigo que se interpreta antes de compilar. */
